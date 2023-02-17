@@ -1,0 +1,29 @@
+{
+  "name": "ilayda-nur-guzel",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ilayda": "echo 'Benim adim ilayda'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Ilayda Nur Guzel",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.9.2",
+    "nodemailer": "^6.9.1",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
+  },
+  "repository": {
+    "type":"git",
+    "url": "https://github.com/ilaydanurguzel1/ilayda-nur-guzel.git"
+  }
+}
